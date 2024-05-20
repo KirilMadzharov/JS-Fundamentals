@@ -1,4 +1,4 @@
-** Programming Fundamentals with JavaScript**
+**Programming Fundamentals with JavaScript - January 2024**
  
 **Overview**
 
